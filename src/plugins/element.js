@@ -2,10 +2,13 @@ import Vue from 'vue'
 import { Button } from 'element-ui'
 import { Form, FormItem } from 'element-ui'
 import { Input } from 'element-ui'
-import { Message, Container, Header, Aside, Main, Menu, Submenu, MenuItemGroup, MenuItem, Breadcrumb, BreadcrumbItem, Card, Row, Col, Table, TableColumn, Switch, Tooltip, Pagination, Dialog, MessageBox, Tag, Tree, Select, Option, Cascader, Alert, TabPane, Tabs, Steps, Step } from 'element-ui'
+import { Message, Container, Header, Aside, Main, Menu, Submenu, MenuItemGroup, MenuItem, Breadcrumb, BreadcrumbItem, Card, Row, Col, Table, TableColumn, Switch, Tooltip, Pagination, Dialog, MessageBox, Tag, Tree, Select, Option, Cascader, Alert, TabPane, Tabs, Steps, Step, Checkbox, CheckboxGroup, Upload } from 'element-ui'
 
 Vue.use(Button)
 Vue.use(TabPane)
+Vue.use(Upload)
+Vue.use(Checkbox)
+Vue.use(CheckboxGroup)
 Vue.use(Steps)
 Vue.use(Step)
 Vue.use(Tabs)
