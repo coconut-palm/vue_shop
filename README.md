@@ -2,4 +2,4 @@
 
 Vue + CLI3 + VueRouter + Axios + Element-UI
 
-数据来源本地数据库
+数据来源本地搭建的数据库
