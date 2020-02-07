@@ -1,19 +1,5 @@
-# vue_shop
+电商管理系统(前端)
 
-## Project setup
-```
-npm install
-```
+Vue + CLI3 + VueRouter + Axios + Element-UI
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+数据来源本地数据库
